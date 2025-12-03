@@ -3,8 +3,8 @@ pipeline {
     agent any
 
     environment {
-        BROWSERSTACK_USERNAME = credentials('browserstack-creds').username
-        BROWSERSTACK_ACCESS_KEY = credentials('browserstack-creds').password
+        BROWSERSTACK_USERNAME = credentials('browserstack-creds').rakmis_yixdpb
+        BROWSERSTACK_ACCESS_KEY = credentials('browserstack-creds').JEcpG4UVC6Uq5oAFSHVC
     }
 
     stages {
